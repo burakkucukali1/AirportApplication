@@ -1,0 +1,6 @@
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıKutuphanesi\bin\Debug\HavaalanıKutuphanesi.dll
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıKutuphanesi\bin\Debug\HavaalanıKutuphanesi.pdb
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıKutuphanesi\obj\Debug\HavaalanıKutuphanesi.csprojAssemblyReference.cache
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıKutuphanesi\obj\Debug\HavaalanıKutuphanesi.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıKutuphanesi\obj\Debug\HavaalanıKutuphanesi.dll
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıKutuphanesi\obj\Debug\HavaalanıKutuphanesi.pdb

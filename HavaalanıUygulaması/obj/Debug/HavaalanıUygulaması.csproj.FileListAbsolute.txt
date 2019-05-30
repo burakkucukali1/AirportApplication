@@ -1,0 +1,10 @@
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\bin\Debug\HavaalanıUygulaması.exe.config
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\bin\Debug\HavaalanıUygulaması.exe
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\bin\Debug\HavaalanıUygulaması.pdb
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\bin\Debug\HavaalanıKutuphanesi.dll
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\bin\Debug\HavaalanıKutuphanesi.pdb
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\obj\Debug\HavaalanıUygulaması.csprojAssemblyReference.cache
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\obj\Debug\HavaalanıUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\obj\Debug\HavaalanıUygulaması.csproj.CopyComplete
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\obj\Debug\HavaalanıUygulaması.exe
+C:\Users\BK\source\repos\HavaalanıUygulaması\HavaalanıUygulaması\obj\Debug\HavaalanıUygulaması.pdb
